@@ -39,7 +39,7 @@ echo GROQ_API_KEY=your_groq_api_key >> .env
 uvicorn app.main:app --reload
 # Visit http://127.0.0.1:8000/docs
 
-# 6. (Optional) Run the Streamlit UI
+# 6. Run the Streamlit UI
 streamlit run ui/main.py
 # Visit http://localhost:8501
 =======
