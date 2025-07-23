@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 GitHub Issue AI Assistant
 
 An AI-powered assistant that summarizes GitHub issues and classifies them by type, priority score, labels, and potential impact using a Large Language Model. Built using **FastAPI**, **Streamlit**, and **GROQ API**.
@@ -41,3 +42,7 @@ uvicorn app.main:app --reload
 # 6. (Optional) Run the Streamlit UI
 streamlit run ui/main.py
 # Visit http://localhost:8501
+=======
+# github-issue-ai-assistant
+LLM-powered assistant that fetches and summarizes GitHub issues
+>>>>>>> 8f0bc0176555004aec38f49f5d89c8bfb82a86f2
