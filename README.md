@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 GitHub Issue AI Assistant
 
 An AI-powered assistant that summarizes GitHub issues and classifies them by type, priority score, labels, and potential impact using a Large Language Model. Built using **FastAPI**, **Streamlit**, and **GROQ API**.
