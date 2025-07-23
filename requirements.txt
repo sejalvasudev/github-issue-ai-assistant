@@ -1,0 +1,13 @@
+
+streamlit
+httpx
+openai
+python-dotenv
+groq
+httpx
+fastapi
+uvicorn
+
+
+
+
